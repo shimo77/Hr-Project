@@ -1,6 +1,8 @@
 # HR Data Analysis Project
 
-![Project Image Placeholder](https://via.placeholder.com/600x300?text=Your+Project+Image+Here)
+
+![Dashboard Preview](https://via.placeholder.com/600x300?text=Your+Project+Image+Here](https://github.com/shimo77/Hr-Project/blob/main/P1.PNG)?raw=true)
+
 
 ## Overview  
 Welcome to the HR Data Analysis Project — where raw employee data transforms into meaningful insights. This project dives into the pulse of your workforce by analyzing employee tenure, performance ratings, and other key HR metrics to help managers make smarter, data-driven decisions.
