@@ -1,7 +1,7 @@
 # HR Data Analysis Project
 
+[![Project Image](https://raw.githubusercontent.com/shimo77/Hr-Project/main/P1.PNG)](https://github.com/shimo77/Hr-Project/blob/main/P1.PNG)
 
-[![Your Project Image Here](https://via.placeholder.com/600x300?text=Your+Project+Image+Here)](https://github.com/shimo77/Hr-Project/blob/main/P1.PNG)
 
 
 
