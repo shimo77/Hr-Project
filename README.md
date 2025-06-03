@@ -1,7 +1,8 @@
 # HR Data Analysis Project
 
 
-![Dashboard Preview](https://via.placeholder.com/600x300?text=Your+Project+Image+Here](https://github.com/shimo77/Hr-Project/blob/main/P1.PNG)?raw=true)
+[![Your Project Image Here](https://via.placeholder.com/600x300?text=Your+Project+Image+Here)](https://github.com/shimo77/Hr-Project/blob/main/P1.PNG)
+
 
 
 ## Overview  
